@@ -1,1 +1,8 @@
 /* etch.css - CSS file for 'Etch-a-Sketch' project */
+
+.cel{
+     height: 100px;
+     width: 100px;
+     background-color: blue;
+     border-radius: 5px;
+}
