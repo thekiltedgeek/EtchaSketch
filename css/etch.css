@@ -2,8 +2,6 @@
 
 /* element for the overall container */
 #grid{
-     border-style: solid;
-     border-color: yellow;
      width: 960px;
 }
 
@@ -15,6 +13,7 @@
      float: left;
 }
 
+/* Class to change background to green on mouseenter using addClass() */
 .visited{
      background-color: green;
 }
